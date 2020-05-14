@@ -1,0 +1,19 @@
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\bin\Debug\VsualSorfWF.exe.config
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\bin\Debug\VsualSorfWF.exe
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\bin\Debug\VsualSorfWF.pdb
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.csprojResolveAssemblyReference.cache
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.Form1.resources
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.Properties.Resources.resources
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.csproj.GenerateResource.Cache
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.exe
+c:\users\dmitr_000\documents\visual studio 2012\Projects\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.pdb
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\bin\Debug\VsualSorfWF.exe.config
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\bin\Debug\VsualSorfWF.exe
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\bin\Debug\VsualSorfWF.pdb
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.csprojAssemblyReference.cache
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.Form1.resources
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.Properties.Resources.resources
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.csproj.GenerateResource.cache
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.csproj.CoreCompileInputs.cache
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.exe
+C:\Users\makot\Desktop\VsualSorfWF\VsualSorfWF\obj\Debug\VsualSorfWF.pdb
